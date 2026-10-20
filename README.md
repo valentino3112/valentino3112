@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Valentin Gonçalves 👋</h1>
+<h1 align="center"> Valentin Gonçalves</h1>
 
 <p align="center">
   <b>Software engineering student @ EFREI Paris</b> · Class of 2028<br>
-  🔎 Looking for a <b>5-month IT internship</b> · <b>November 2026 – April 2027</b> · Paris area
+  Looking for a <b>5-month IT internship</b> · <b>November 2026 – April 2027</b> · Paris area
 </p>
 
 <p align="center">
