@@ -16,7 +16,7 @@
 
 I'm a second-year engineering student at **EFREI Paris** (Information Technology track, **Software Engineering** major). I like building systems that sit between code and infrastructure: services that have to be fast, correct and keep working when something around them breaks.
 
-My main project is **[Quotient](https://github.com/valentino3112/Quotient)**, a distributed rate-limiting service for the Envoy proxy, written in **C++20** with gRPC, Redis and PostgreSQL. I wrote about 80% of it.
+My main project is **[Quotient](https://github.com/valentino3112/Quotient)**, a distributed rate-limiting service for the Envoy proxy, written in **C++20** with gRPC, Redis and PostgreSQL.
 
 I'm interested in **software engineering, backend and distributed systems, DevOps/cloud, information systems and IT consulting**.
 
