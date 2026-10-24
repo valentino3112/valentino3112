@@ -1,8 +1,8 @@
-<h1 align="center"> Valentin Gonçalves</h1>
+<h1 align="center">Hi, I'm Valentin Gonçalves 👋</h1>
 
 <p align="center">
   <b>Software engineering student @ EFREI Paris</b> · Class of 2028<br>
-  Looking for a <b>5-month IT internship</b> · <b>November 2026 – April 2027</b> · Paris area
+  🔎 Looking for a <b>5-month IT internship</b> · <b>November 2026 – April 2027</b> · Paris area
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 I'm a second-year engineering student at **EFREI Paris** (Information Technology track, **Software Engineering** major). I like building systems that sit between code and infrastructure: services that have to be fast, correct and keep working when something around them breaks.
 
-My main project is **[Quotient](https://github.com/valentino3112/Quotient)**, a distributed rate-limiting service for the Envoy proxy, written in **C++20** with gRPC, Redis and PostgreSQL.
+My main project is **[Quotient](https://github.com/valentino3112/Quotient)**, a distributed rate-limiting service for the Envoy proxy, written in **C++20** with gRPC, Redis and PostgreSQL. I was its lead developer.
 
-I'm interested in **software engineering, backend and distributed systems, DevOps/cloud, information systems and IT consulting**.
+I've worked on both sides of the stack: backend and infrastructure with Quotient, frontend with React and Vue.js web apps. I'm open to any kind of development work, and interested in **software engineering, backend and distributed systems, DevOps/cloud, information systems and IT consulting**.
 
 🌍 French (native) · English (fluent, TOEIC 875/990) · Portuguese (conversational)
 
@@ -50,6 +50,8 @@ I'm interested in **software engineering, backend and distributed systems, DevOp
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Vuex](https://img.shields.io/badge/Vuex-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -57,6 +59,8 @@ I'm interested in **software engineering, backend and distributed systems, DevOp
 **DevOps & tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
@@ -78,6 +82,7 @@ I'm interested in **software engineering, backend and distributed systems, DevOp
 | --- | --- | --- |
 | **[Quotient](https://github.com/valentino3112/Quotient)** | Global rate limiting and quota service for Envoy. Answers each request in under 20 ms (allow or HTTP 429), with GCRA and fixed-window algorithms as atomic Lua scripts on Redis, per-tenant policies in PostgreSQL, hashed API keys, fail-open / fail-closed modes and a gRPC + REST admin API. | C++20 · gRPC · Envoy · Redis · PostgreSQL · Docker |
 | **[Recette & Avis](https://github.com/valentino3112/recette-et-avis)** | Community recipe and review web app, built by a team of 5 with an eco-design approach. I led the frontend and integration. [Live demo ↗](https://recette-et-avis-production.up.railway.app) | React · Vite · Node.js · Express · SQLite · Railway |
+| **[Yomu](https://github.com/IliesN/UIUX-tp-3)** | Manga library web app built as a team of 2 (work shared equally): search series, track read and unread volumes, ratings, notes and reading stats. Combines the AniList GraphQL API and the MangaDex REST API, with a full UX process (persona, wireframes, Figma prototype). | Vue 3 · Vuex · Vue Router · Vite · GraphQL |
 | **Enterprise network security** | EFREI MasterCamp: fully open-source enterprise network with an OPNsense firewall, VLAN segmentation, site-to-site IPsec and WireGuard remote access, modelled and validated in PNETLab. | OPNsense · IPsec · WireGuard · PNETLab |
 | **[MARC](https://github.com/valentino3112/MARC)** | Mars rover pathfinding in C: builds a tree of possible moves to find the cheapest route to the base, with complexity analysis. | C · trees · stacks · queues |
 
